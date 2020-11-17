@@ -1,9 +1,9 @@
 # Reflex Game is my first game made with the pygame module. 
 ## Features:
 * 3 levels:
-  * Simple Math
-  * Color Hunter
-  * Fruit Clicker
+  * Simple Math - Determine whether the given equations are correct or wrong.
+  * Color Hunter - (...).
+  * Fruit Clicker - (...)
 * Highscores
 * 3 available resolutions to choose:
   * 1280 x 720
