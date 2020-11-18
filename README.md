@@ -1,4 +1,4 @@
-# Reflex Game is my first game made with the pygame module. 
+# Reflex Game is my first game made with the pygame module. Complete given tasks as fast as you can.
 ## Features:
 * 3 levels:
   * Simple Math - Determine whether the given equations are correct or wrong.
